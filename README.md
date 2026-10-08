@@ -27,7 +27,7 @@ Your site will be published at:
 
 ## Before launch
 Replace the placeholder contact details:
-- `[your email]`
-- `[your phone number]`
+- `(cooperflatau@gmail.com)`
+- `(218-457-4659)`
 
 This version is intentionally clean and ready for future artwork and actual product listings.
